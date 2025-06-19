@@ -1,0 +1,11 @@
+yfinance==0.2.37
+pandas==2.3.0
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.13.2
+statsmodels==0.14.1
+scikit-learn==1.4.2
+tensorflow==2.15.0
+prophet==1.1.5
+tqdm==4.66.2
+cmdstanpy==1.2.5
